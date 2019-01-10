@@ -19,8 +19,8 @@
   "author": "tiago fabre",
   "license": "ISC",
   "dependencies": {
-    "boom": "^4.2.0",
-    "concurrently": "^3.1.0",
-    "hapi": "^16.1.0"
+    "boom": "^7.3.0",
+    "concurrently": "^4.1.0",
+    "hapi": "^17.8.1"
   }
 }
